@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link } from "gatsby"
+import { Link } from "gatsby";
 
 //How to create inline styles and utilize the gatsby link components to have single page links.
 const Menu = () => (
